@@ -1,0 +1,5 @@
+c:\users\nestor_velasquez\documents\visual studio 2010\Projects\numeroFactorial\numeroFactorial\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nestor_velasquez\documents\visual studio 2010\Projects\numeroFactorial\numeroFactorial\bin\Debug\numeroFactorial.exe
+c:\users\nestor_velasquez\documents\visual studio 2010\Projects\numeroFactorial\numeroFactorial\bin\Debug\numeroFactorial.pdb
+c:\users\nestor_velasquez\documents\visual studio 2010\Projects\numeroFactorial\numeroFactorial\obj\x86\Debug\numeroFactorial.exe
+c:\users\nestor_velasquez\documents\visual studio 2010\Projects\numeroFactorial\numeroFactorial\obj\x86\Debug\numeroFactorial.pdb
